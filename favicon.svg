@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Planète cercle extérieur -->
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#4ab3f4" stroke-width="2.5"/>
+
+  <!-- Latitude centrale -->
+  <ellipse cx="32" cy="32" rx="26" ry="9" fill="none" stroke="#4ab3f4" stroke-width="2"/>
+
+  <!-- Latitude haute -->
+  <ellipse cx="32" cy="32" rx="26" ry="18" fill="none" stroke="#4ab3f4" stroke-width="1.5"/>
+
+  <!-- Longitude centrale (verticale) -->
+  <ellipse cx="32" cy="32" rx="9" ry="26" fill="none" stroke="#4ab3f4" stroke-width="2"/>
+</svg>
